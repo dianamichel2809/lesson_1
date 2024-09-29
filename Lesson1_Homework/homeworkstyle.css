@@ -1,0 +1,18 @@
+.nav{
+    border: 150px purple solid;
+    height: auto;
+    width: auto;
+    background: #287ed4;
+}
+.link{
+    border: 100px dashed rgb(243, 83, 243);
+    height: 50px;
+    width: auto;
+    background: #287ed4;
+}
+.id{
+    border: thick double #32a1ce;;
+    height: 70px;
+    width: auto;
+    background: #ffffff;
+}
